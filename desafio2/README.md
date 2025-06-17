@@ -34,9 +34,9 @@ git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
 
 ### 2.Instale as dependências
-```bash
+
 pip install -r requirements.txt
 
 ### 3.Rode o sistema com Streamlit
-```bash
+
 streamlit run agente_interface.py
