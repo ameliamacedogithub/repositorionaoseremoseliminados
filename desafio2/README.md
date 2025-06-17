@@ -40,3 +40,18 @@ pip install -r requirements.txt
 ### 3.Rode o sistema com Streamlit
 
 streamlit run agente_interface.py
+
+
+
+## 🐳 Executar com Docker
+
+### 1. Build da imagem
+```bash
+docker build -t agentes-nfe .
+
+docker run -p 8501:8501 agentes-nfe
+
+http://localhost:8501
+
+
+
