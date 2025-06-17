@@ -1,0 +1,9 @@
+pandas
+streamlit
+openai
+langchain
+langchain-openai
+langchain-community
+chromadb
+gdown
+matplotlib
