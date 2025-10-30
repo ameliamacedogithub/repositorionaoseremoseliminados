@@ -8,6 +8,9 @@ Para executar o Trabalho final, será necessário uma chave openai, ngrok e  gcs
 
 !pip install -U gdown langchain langchain-community langchain-openai chromadb openai tiktoken langchain-text-splitters streamlit langchain-openai langchain-google-community pyngrok chardet --quiet
 
+!cp -r /content/repositorionaoseremoseliminados/"Projeto Final - Artefatos"/* /content/
+
+
 destino_dir="/content/dados_nfe"
 persist_dir="/content/chroma_nfe"
 
