@@ -1,3 +1,7 @@
+## 📜 Licença (MIT)
+
+Este projeto é distribuído sob a **Licença MIT**, o que significa que você pode usar, copiar, modificar, mesclar, publicar e distribuir livremente, desde que mantenha o aviso de copyright original.
+
 Para executar o Trabalho final, será necessário uma chave openai, ngrok e  gcs_api_key e gcs_cs. Utilize os seguintes comandos:
 
 !git clone https://github.com/ameliamacedogithub/repositorionaoseremoseliminados
